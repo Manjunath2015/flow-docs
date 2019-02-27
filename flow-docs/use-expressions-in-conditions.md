@@ -133,7 +133,7 @@ Let's create the flow.
     ![save your flow](./media/use-expressions-in-conditions/name-and-save.png)
 
 ### Run the flow with the or expression
-The flow runs after you save it. If you created the spreadsheet shown earlier in this walkthrough, here's what the it looks like after the run completes:
+The flow runs after you save it. If you created the spreadsheet shown earlier in this walkthrough, here's how it looks like after the run completes:
 
 ![or expression completes](./media/use-expressions-in-conditions/spreadsheet-table-after-or-expression-runs.png)
 
